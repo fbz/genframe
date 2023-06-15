@@ -1,3 +1,4 @@
+#parametric picture frames using python in blender
 # give Python access to Blender's functionality
 import bpy
 # give Python access to Blender's mesh editing functionality
